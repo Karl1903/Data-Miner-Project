@@ -1,0 +1,17 @@
+matplotlib
+numpy
+pandas
+psycopg2-binary
+sqlalchemy
+plotly
+nbformat
+pylast
+scipy
+namegenerator
+nltk
+feedparser
+spacy
+keras
+tensorflow
+scikit-image
+scikit-learn
